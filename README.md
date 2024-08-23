@@ -25,7 +25,7 @@
 <p align="left">
   Brasileiro<br><br>
   - 🔭  Atuo como Engenheiro de Redes/Analista...<br> 
-  -     Entusiasta DevOps ...<br>
+  - 🐋  Entusiasta DevOps ...<br>
   - 📚  Eterno estudante de Python, GO, Kotlin e PHP...<br>
   - ⚡ Dev Backend <3 ...
 </p>
