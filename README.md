@@ -60,7 +60,14 @@
 <div align="left">
 <img width="12"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Cisco_logo_blue_2016.svg" height="40" alt="Cisco logo" />
-
+<img width="12"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Fortinet_Logo.png" height="40" alt="Fortinet logo" /> 
+<img width="12"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Huawei_logo_icon_170010.png" height="40" alt="Huawei logo" />  
+<img width="12"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/MikroTik_Logo_%282022%29.svg" height="40" alt="Mikrotik logo" />  
+<img width="12"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/PfSense_logo.png" height="40" alt="PFSense logo" />  
 </div>
 
 ###
