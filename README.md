@@ -5,13 +5,16 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/jeferson-rocha-1b494b1b5" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo"  />
+  </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github.com/jefersonrocha-py&"  />
+  <!-- Substitua o link abaixo pelo link para sua foto de perfil -->
+  <img src="https://github.com/jefersonrocha-py.png" height="150" alt="Jeferson Rocha's Profile Picture" />
 </div>
 
 ###
@@ -24,7 +27,7 @@
 
 ###
 
-<p align="left"> Brasileiro<br><br>- 🔭  Atuo  como Engenheiro de Redes e Entusiasta ...<br>- 📚  Eterno estudante de Python, GO, Kotlin e PHP...<br>- ⚡ In my free time I ...</p>
+<p align="left"> Brasileiro<br><br>- 🔭  Atuo como Engenheiro de Redes e Entusiasta ...<br>- 📚  Eterno estudante de Python, GO, Kotlin e PHP...<br>- ⚡ In my free time I ...</p>
 
 ###
 
@@ -34,46 +37,45 @@
 
 <div align="left">
   <!-- Linguagens e ferramentas de desenvolvimento -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="Go logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker-compose logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker Compose logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/portainer/portainer-original.svg" height="40" alt="portainer logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/portainer/portainer-original.svg" height="40" alt="Portainer logo" />
 
   <!-- Logos de Redes -->
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Cisco_logo.svg" height="40" alt="cisco logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Cisco_logo.svg" height="40" alt="Cisco logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Huawei_Logo.svg" height="40" alt="huawei logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Huawei_Logo.svg" height="40" alt="Huawei logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Mikrotik_logo.svg" height="40" alt="mikrotik logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Mikrotik_logo.svg" height="40" alt="Mikrotik logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Ubiquiti_Networks_logo.svg" height="40" alt="ubiquiti logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Ubiquiti_Networks_logo.svg" height="40" alt="Ubiquiti logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Fortinet_logo.svg" height="40" alt="fortinet logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Fortinet_logo.svg" height="40" alt="Fortinet logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Pfsense_logo.png" height="40" alt="pfsense logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Pfsense_logo.png" height="40" alt="PFSense logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Sophos_logo.svg" height="40" alt="sophos logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Sophos_logo.svg" height="40" alt="Sophos logo" />
 </div>
-
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats :</h3>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=seu_usuario&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=jefersonrocha-py&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
 ###
