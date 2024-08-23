@@ -13,7 +13,6 @@
 ###
 
 <div align="center">
-  <!-- Substitua o link abaixo pelo link para sua foto de perfil -->
   <img src="https://github.com/jefersonrocha-py.png" height="150" alt="Jeferson Rocha's Profile Picture" />
 </div>
 
@@ -67,6 +66,7 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Sophos_logo.svg" height="40" alt="Sophos logo" />
 </div>
+
 
 ###
 
