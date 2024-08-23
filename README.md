@@ -49,8 +49,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/portainer/portainer-original.svg" height="40" alt="Portainer logo" />
-  <img width="12" />
-  <img src="https://commons.wikimedia.org/wiki/File:Cisco_logo_blue_2016.svg" height="40"  alt="Cisco logo" />
 </div>
 
 
