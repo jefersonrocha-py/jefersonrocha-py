@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left"> Brasileiro<br><br>- 🔭  Atuo como Engenheiro de Redes e Entusiasta ...<br>- 📚  Eterno estudante de Python, GO, Kotlin e PHP...<br>- ⚡ In my free time I ...</p>
+<p align="left"> Brasileiro<br><br>- 🔭  Atuo como Engenheiro de Redes e Entusiasta ...<br>- 📚  Eterno estudante de Python, GO, Kotlin e PHP...<br>- ⚡ Code  <3 ...</p>
 
 ###
 
