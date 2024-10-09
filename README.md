@@ -2,8 +2,6 @@
   <a href="https://www.linkedin.com/in/jeferson-rocha-1b494b1b5" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
-  <br>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=jefersonrocha-py.visitor-badge" alt="Contador de Visitantes" />
 </div>
 
 <div align="center">
